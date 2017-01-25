@@ -6,20 +6,25 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 
 ## *Version 1.0*
 
-Release Date: Jul 26, 2027
+Release Date: Jan 24, 2017
 
 ## New Components
 
 -   controllers
 
-    -   serbian (AB)
+    -   About.php
+    -   Gallery.php
+    -   index.html
+    -   Welcome.php
     
 ## Updated Components
 
 -   controllers
 
-    -   german (CD)
-    -   hindi (CD)
+    -   About.php
+    -   Gallery.php
+    -   index.html
+    -   Welcome.php
 
 -   models
 
@@ -27,7 +32,8 @@ Release Date: Jul 26, 2027
 
 -   views
 
-    -   slovenian (AB)
-    -   swedish
-
+    -   About.php
+    -   Gallery.php
+    -   index.html
+    -   Welcome.php
 
