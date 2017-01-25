@@ -15,6 +15,8 @@ class Welcome extends Application {
     
     public function index()
     {
-        $this->load->view('Welcome');
+       // $this->load->view('Welcome');
+         $this->data['pagebody']='Welcome';
+        $this->render();
     }
 }
