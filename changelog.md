@@ -3,7 +3,6 @@
 Team membership:  Carmen (Captain) & Michael (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
-Carmen Made changes to the view 
 
 ## *Version 1.0*
 
